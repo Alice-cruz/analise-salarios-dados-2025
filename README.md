@@ -1,0 +1,1 @@
+# analise-salarios-dados-2025
