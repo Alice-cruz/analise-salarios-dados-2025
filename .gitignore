@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+env/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+
+# Configurações locais
+*.env
+.vscode/
+.idea/
+
+### ignora o csv usadno apenas o outro arquivo
+dados_limpos.csv
